@@ -2,8 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c107b8a1-49db-4ee1-bd13-ef55a8d42c7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/__construct.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/__construct.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/acceptpagebreak.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/acceptpagebreak.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/addfont.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/addfont.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/addlink.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/addlink.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/addpage.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/addpage.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/aliasnbpages.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/aliasnbpages.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/cell.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/cell.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/close.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/close.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/doc181-html-pt_BR.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/doc181-html-pt_BR.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/error.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/error.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/footer.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/fpdf.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/fpdf.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/getpageheight.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/getpageheight.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/getpagewidth.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/getpagewidth.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/getstringwidth.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/getstringwidth.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/getx.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/getx.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/gety.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/gety.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/header.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/header.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/image.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/image.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/line.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/line.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/link.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/link.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ln.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/ln.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/multicell.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/multicell.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/output.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/output.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/pageno.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/pageno.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/rect.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/rect.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setauthor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setauthor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setautopagebreak.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setautopagebreak.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setcompression.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setcompression.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setcreator.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setcreator.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setdisplaymode.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setdisplaymode.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setdrawcolor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setdrawcolor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setfillcolor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setfillcolor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setfont.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setfont.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setfontsize.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setfontsize.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setkeywords.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setkeywords.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setleftmargin.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setleftmargin.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setlinewidth.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setlinewidth.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setlink.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setlink.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setmargins.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setmargins.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setrightmargin.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setrightmargin.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setsubject.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setsubject.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/settextcolor.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/settextcolor.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/settitle.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/settitle.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/settopmargin.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/settopmargin.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setx.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setx.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/setxy.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/setxy.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/sety.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/sety.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/text.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/text.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/write.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/doc/write.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/courier.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/courier.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/courierb.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/courierb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/courierbi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/courierbi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/courieri.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/courieri.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/helvetica.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/helvetica.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/helveticab.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/helveticab.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/helveticabi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/helveticabi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/helveticai.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/helveticai.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/symbol.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/symbol.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/times.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/times.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/timesb.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/timesb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/timesbi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/timesbi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/timesi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/timesi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/zapfdingbats.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/font/zapfdingbats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1250.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1250.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1251.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1251.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1252.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1252.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1253.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1253.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1254.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1254.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1255.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1255.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1257.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1257.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp1258.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp1258.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/cp874.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/cp874.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-1.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-1.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-11.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-11.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-15.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-15.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-16.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-16.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-2.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-2.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-4.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-4.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-5.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-5.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-7.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-7.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/iso-8859-9.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/iso-8859-9.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/koi8-r.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/koi8-r.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/koi8-u.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/koi8-u.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/makefont.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/makefont.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makefont/ttfparser.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/makefont/ttfparser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/20k_c1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/20k_c1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/20k_c2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/20k_c2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/calligra.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/calligra.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/calligra.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/calligra.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/calligra.z" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/calligra.z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/countries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/countries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/makefont.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/makefont.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto1.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto1.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto1.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto2.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto2.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto2.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto3.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto3.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto3.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto4.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto4.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto4.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto5.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto5.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto5.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto6.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto6.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto6.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto7.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto7.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tuto7.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/tuto7.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -35,6 +143,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,7 +213,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597243715052</updated>
-      <workItem from="1597243716222" duration="1141000" />
+      <workItem from="1597243716222" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="v1.82 (2019-12-07)">
       <created>1597244117261</created>
@@ -113,24 +229,30 @@
       <option name="project" value="LOCAL" />
       <updated>1597244168556</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v1.82 (2019-12-07)">
+      <created>1597245107310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597245107310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1141000" />
+    <option name="totallyTimeSpent" value="1730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49946582" visible="true" weight="0.32996634" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5005342" side_tool="true" visible="true" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -147,6 +269,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="v1.82 (2019-12-07)" />
     <option name="LAST_COMMIT_MESSAGE" value="v1.82 (2019-12-07)" />
@@ -161,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

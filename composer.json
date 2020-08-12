@@ -1,6 +1,6 @@
 {
     "name": "douglas-otix/fpdf",
-    "version": "1.82",
+    "version": "1.82.0",
     "homepage": "http://www.fpdf.org",
     "description": "FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPDF stands for Free: you may use it for any kind of usage and modify it to suit your needs.",
     "type": "library",
@@ -14,8 +14,11 @@
         }
     ],
     "autoload": {
+        "psr-4": {
+            "Fawno\\FPDF\\": "src"
+        },
         "classmap": [
-            "fpdf.php"
+            "src/fpdf.php"
         ]
     }
 }
